@@ -1,5 +1,5 @@
 import Hero from "../components/Hero";
-import { Section } from "@/components/ui/Section";;
+import Section from "../components/ui/Section";
 import Card from "../components/ui/Card";
 import Button from "../components/ui/Button";
 
