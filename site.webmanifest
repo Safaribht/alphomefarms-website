@@ -1,0 +1,9 @@
+{
+  "name": "Alphome Community Farms",
+  "short_name": "Alphome",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
